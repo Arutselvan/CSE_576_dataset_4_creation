@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="79px" viewBox="0 0 57 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-213.000000, -3241.000000)">
+            <g id="Built-by-sec-Experts" transform="translate(185.000000, 3160.000000)">
+                <g id="Group-18" transform="translate(28.000000, 81.000000)">
+                    <path d="M25.5411712,7.00082946 C12.6511278,6.89063675 2.10518396,17.7746718 2,30.6672196 L2,78 L30.7377595,78 L30.7377595,59.4049791 L41.624299,59.4049791 C43.562689,59.865785 45.3057375,58.2955388 45.9518675,56.3571488 L45.9518675,44.1908712 L52.7136932,44.1908712 L47.6698721,23.0939748 C44.8975235,13.4496077 36.0570624,7.08848276 25.5411712,7.00082946 Z" id="Stroke-186" stroke="#000000" stroke-width="2"></path>
+                    <polygon id="Path-5" fill="#FFFFFF" points="24.4160126 0.763698044 56.3493151 23.2001209 32.2011473 43.0415208 0.661970651 30.0139132"></polygon>
+                    <polygon id="Path-3" stroke="#000000" stroke-width="2" points="25.953807 8.3622643 30.5452997 36 46.9419193 20.7629555"></polygon>
+                    <polyline id="Path-4" stroke="#000000" stroke-width="2" points="25.6498764 7.78498695 7.73097611 27.4848228 30.214171 35.5868698"></polyline>
+                    <circle id="Oval-6" stroke="#EB5424" fill="#FFFFFF" cx="29.5" cy="35.5" r="3.5"></circle>
+                    <circle id="Oval-6" stroke="#EB5424" fill="#FFFFFF" cx="45.5" cy="20.5" r="2.5"></circle>
+                    <ellipse id="Oval-6" stroke="#EB5424" fill="#FFFFFF" cx="8" cy="27" rx="2" ry="2"></ellipse>
+                    <ellipse id="Oval-6" stroke="#EB5424" fill="#FFFFFF" cx="25.9339623" cy="8.5" rx="3.5" ry="3.5"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

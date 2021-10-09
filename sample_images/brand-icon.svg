@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Brand/Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="XL" transform="translate(-196.000000, -516.000000)">
+            <g id="Brand/Icon" transform="translate(196.000000, 516.000000)">
+                <g id="Brand/logo-light">
+                    <g id="brand-icon">
+                        <path d="M5.13458378,3.67289106e-07 L26.8849661,0.0137699575 C29.7122094,0.0158883561 32.0015843,2.30852513 31.9999992,5.13658713 L31.9857335,26.8851253 C31.9836201,29.7121281 29.6916034,32.0021169 26.8648885,31.9999985 L5.11450617,31.9867585 C2.28726292,31.9846401 -0.00211196962,29.6914738 1.46208004e-06,26.864471 L0.0137387681,5.11487355 C0.0158521998,2.28892995 2.30786888,-0.00105883196 5.13458378,3.67289106e-07" id="icon-shape" fill="#5CAA59"></path>
+                        <polygon id="shape" fill="#FFFFFF" points="15.9677807 7.60894725 9.8691275 13.7573758 9.86495177 13.7573758 9.86495177 23.2388226 22.0586044 23.2388226 22.0580825 13.7647103 22.0570385 13.7647103 19.5087995 11.1902916 17.7362022 12.9767726 19.5463811 14.8124998 19.5463811 20.7094588 12.3761312 20.7094588 12.3761312 14.806213 17.7382901 9.39857164"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,840 @@
+
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-CA">
+
+<head>
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="pingback" href="https://sammoussa.com/xmlrpc.php">
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.6.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Your #1 Ottawa Real Estate Realtor | Sam Moussa</title>
+	<meta name="description" content="With a leading local referral base, Sam Moussa is your #1 Ottawa Real Estate Agent, dedicated to exceeding your investment goals." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://sammoussa.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Your #1 Ottawa Real Estate Realtor | Sam Moussa" />
+	<meta property="og:description" content="With a leading local referral base, Sam Moussa is your #1 Ottawa Real Estate Agent, dedicated to exceeding your investment goals." />
+	<meta property="og:url" content="https://sammoussa.com/" />
+	<meta property="og:site_name" content="Sam Moussa Realty" />
+	<meta property="article:publisher" content="https://www.facebook.com/sam.moussa.792" />
+	<meta property="article:modified_time" content="2021-08-30T19:17:42+00:00" />
+	<meta property="og:image" content="http://4mu.ded.myftpupload.com/wp-content/uploads/2020/05/chairmans-club-award.jpg" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:label1" content="Est. reading time">
+	<meta name="twitter:data1" content="4 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://sammoussa.com/#organization","name":"Sam Moussa Realty","url":"https://sammoussa.com/","sameAs":["https://www.facebook.com/sam.moussa.792","https://www.youtube.com/channel/UCDdgoppQ03lAFQ5Ev6U8I7A"],"logo":{"@type":"ImageObject","@id":"https://sammoussa.com/#logo","inLanguage":"en-CA","url":"https://sammoussa.com/wp-content/uploads/2017/04/Sam-Moussa-Realty.png","width":2393,"height":909,"caption":"Sam Moussa Realty"},"image":{"@id":"https://sammoussa.com/#logo"}},{"@type":"WebSite","@id":"https://sammoussa.com/#website","url":"https://sammoussa.com/","name":"Sam Moussa Realty","description":"Your #1 Ottawa Real Estate Agent","publisher":{"@id":"https://sammoussa.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://sammoussa.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-CA"},{"@type":"ImageObject","@id":"https://sammoussa.com/#primaryimage","inLanguage":"en-CA","url":"http://4mu.ded.myftpupload.com/wp-content/uploads/2020/05/chairmans-club-award.jpg"},{"@type":"WebPage","@id":"https://sammoussa.com/#webpage","url":"https://sammoussa.com/","name":"Your #1 Ottawa Real Estate Realtor | Sam Moussa","isPartOf":{"@id":"https://sammoussa.com/#website"},"about":{"@id":"https://sammoussa.com/#organization"},"primaryImageOfPage":{"@id":"https://sammoussa.com/#primaryimage"},"datePublished":"2015-03-13T02:32:56+00:00","dateModified":"2021-08-30T19:17:42+00:00","description":"With a leading local referral base, Sam Moussa is your #1 Ottawa Real Estate Agent, dedicated to exceeding your investment goals.","inLanguage":"en-CA","potentialAction":[{"@type":"ReadAction","target":["https://sammoussa.com/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Sam Moussa Realty &raquo; Feed" href="https://sammoussa.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sam Moussa Realty &raquo; Comments Feed" href="https://sammoussa.com/comments/feed/" />
+<meta property="og:site_name" content="Sam Moussa Realty"><meta property="og:title" content="Home"><meta property="og:description" content="Your #1 Ottawa Real Estate Agent"><meta property="og:image" content=""><meta property="og:url" content="https://sammoussa.com/"><meta property="og:type" content="article">		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sammoussa.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.5"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://sammoussa.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://sammoussa.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='epl-css-lib-css'  href='https://sammoussa.com/wp-content/plugins/easy-property-listings/lib/assets/css/style-structure.min.css?ver=3.4.35' type='text/css' media='all' />
+<link rel='stylesheet' id='epl-style-css'  href='https://sammoussa.com/wp-content/plugins/easy-property-listings/lib/assets/css/style.min.css?ver=3.4.35' type='text/css' media='all' />
+<link rel='stylesheet' id='epl-field-sliders-css'  href='https://sammoussa.com/wp-content/plugins/easy-property-listings/lib/assets/css/field-slider.min.css?ver=3.4.35' type='text/css' media='all' />
+<link rel='stylesheet' id='epl-temp-front-styles-css'  href='https://sammoussa.com/wp-content/plugins/epl-listing-templates/includes/css/style-listing-templates.css?ver=2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='epl-temp-front-styles-single-css'  href='https://sammoussa.com/wp-content/plugins/epl-listing-templates/includes/css/style-listing-templates-single.css?ver=2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='epl-slider-fancybox-style-css'  href='https://sammoussa.com/wp-content/plugins/epl-sliders/css/jquery.fancybox.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='x-stack-css'  href='https://sammoussa.com/wp-content/themes/x/framework/dist/css/site/stacks/renew.css?ver=8.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='x-cranium-migration-css'  href='https://sammoussa.com/wp-content/themes/x/framework/legacy/cranium/dist/css/site/renew.css?ver=8.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-bootstrap-min-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/bootstrap-3.3.4/css/bootstrap-realtypress.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-jrange-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/jrange/jquery.range-min.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-bxslider-min-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/bxslider/css/jquery.bxslider.min.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-font-awesome-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/font-awesome-4.2.0/css/font-awesome.min.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-leaflet-min-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/leaflet-0.7.3/css/leaflet.min.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-leaflet-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/leaflet-plugins/fullscreen/css/leaflet.fullscreen.min.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-leaflet-markercluster-default-min-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/css/MarkerCluster.Default.min.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-leaflet-markercluster-custom-min-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/css/MarkerCluster.min.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-leaflet-history-min-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/leaflet-plugins/history/leaflet-history.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-bootstrap-child-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/templates/default/css/bootstrap-child.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-styles-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/templates/default/css/styles.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-utilities-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/templates/default/css/utilities.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-responsive-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/templates/default/css/responsive.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-widgets-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/templates/default/css/widgets.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-print-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/templates/default/css/print.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='realtypress-shortcodes-css'  href='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/templates/default/css/shortcodes.css?ver=1.8.7' type='text/css' media='all' />
+<script type='text/javascript' src='https://sammoussa.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/easy-property-listings/lib/assets/js/epl.min.js?ver=3.4.35' id='epl-js-lib-js'></script>
+<script type='text/javascript' id='epl-front-scripts-js-extra'>
+/* <![CDATA[ */
+var epl_frontend_vars = {"site_url":"https:\/\/sammoussa.com\/","epl_default_view_type":"grid","ajaxurl":"https:\/\/sammoussa.com\/wp-admin\/admin-ajax.php","image_base":"https:\/\/sammoussa.com\/wp-content\/plugins\/easy-property-listings\/lib\/assets\/images\/","field_sliders":{"epl_field_slider_property_price_global":{"els":["property_price_global_from","property_price_global_to"],"label":"Price Search","prefix":"&#36;","suffix":"","separator":" - "}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/easy-property-listings/lib/assets/js/jquery-front-scripts.min.js?ver=3.4.35' id='epl-front-scripts-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/epl-listing-templates/includes/js/epl-temp-scripts.js?ver=2.2' id='epl-temp-front-scripts-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/epl-sliders/js/jssor.slider.mini.js?ver=2' id='epl-slider-jssor-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/epl-sliders/js/jquery.fancybox.pack.js?ver=2' id='epl-slider-jquery.fancybox-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/epl-sliders/js/script.js?ver=2' id='epl-slider-script-js'></script>
+<link rel="https://api.w.org/" href="https://sammoussa.com/wp-json/" /><link rel="alternate" type="application/json" href="https://sammoussa.com/wp-json/wp/v2/pages/32" /><link rel='shortlink' href='https://sammoussa.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://sammoussa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsammoussa.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://sammoussa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsammoussa.com%2F&#038;format=xml" />
+    <script>
+        var listingsMasonEnabled = 1;
+	</script><script>
+					var eplSliderIsArchive  = 0;
+					var eplSliderOptions 	= {"$AutoPlay":false,"$AutoPlayInterval":5000,"$PauseOnHover":1,"$DragOrientation":3,"$ArrowKeyNavigation":false,"$SlideDuration":1200,"$SlideshowOptions":{"$Class":"$JssorSlideshowRunner$","$Transitions":"_SlideshowTransitions","$TransitionsOrder":1,"$ShowLink":true},"$ArrowNavigatorOptions":{"$Class":"$JssorArrowNavigator$","$ChanceToShow":1,"$AutoCenter":2,"$Steps":1},"$ThumbnailNavigatorOptions":{"$Class":"$JssorThumbnailNavigator$","$ChanceToShow":0,"$ActionMode":1,"$Lanes":1,"$SpacingX":5,"$SpacingY":5,"$DisplayPieces":4,"$ParkingPosition":156,"$Orientation":2}};
+					var $_transitionChosen 	= "fade_in_l";
+				</script><style>
+					.epl-slider-slides {
+						right:0!important;
+					}
+					.epl-slider-thumb-container {
+						width:0!important;
+					}
+					.epl-slider-right-nav{
+						right:8px!important;
+					}
+				</style>		<style>
+
+		.epl-slider-hidden-slides .epl-slider-content-box {
+			display: none;
+		}
+		.epl-slider-current-slide .epl-slider-content-box * {
+			color: #fff!important;
+		}
+		.epl-slider-current-slide .epl-slider-content-box {
+		    background: rgba(145, 183, 61, 0.85) none repeat scroll 0 0;
+		    color: rgb(255, 255, 255);
+		    margin: 25% auto;
+		    padding: 10px;
+		    position: absolute;
+		    z-index: 9999;
+		}
+		.epl-slider-bullets-1 {
+		    position: absolute;
+		}
+		.epl-slider-bullets-1 div, .epl-slider-bullets-1 div:hover, .epl-slider-bullets-1 .av {
+		    position: absolute;
+		    /* size of bullet elment */
+		    width: 12px;
+		    height: 12px;
+		    filter: alpha(opacity=70);
+		    opacity: .7;
+		    overflow: hidden;
+		    cursor: pointer;
+		    border: #000 1px solid;
+		}
+		.epl-slider-bullets-1 div { background-color: gray; }
+		.epl-slider-bullets-1 div:hover, .epl-slider-bullets-1 .av:hover { background-color: #d3d3d3; }
+		.epl-slider-bullets-1 .av { background-color: #fff; }
+		.epl-slider-bullets-1 .dn, .epl-slider-bullets-1 .dn:hover { background-color: #555555; }
+
+		
+		.epl_slider_container .epl-slider-fullwidth {
+		    background: rgba(51, 51, 51, 0.5) url(https://sammoussa.com/wp-content/plugins/epl-sliders//img/fullscreen.png) no-repeat scroll center center / 20px auto;
+		    cursor: pointer;
+		    height: 20px;
+		    opacity: 0.3;
+		    padding: 5px;
+		    right: 10px;
+		    top: 10px;
+		    width: 20px;
+		    z-index: 99999999;
+		    position: absolute;
+		    transition: all 0.5s ease 0s;
+		}
+		.epl_slider_container .epl-slider-fullwidth:hover {
+		    opacity: 0.9;
+		}
+		</style>		<style>
+			.epl_slider_partial_slides .epl-slider-hidden-slides {
+			    opacity: 1;
+			}
+			.epl-slider-has-vertical-thumbs {
+				position: relative; top: 0px; right: 0px; width: 800px;
+				height: 400px; overflow: hidden;
+			}
+
+			.epl-slider-has-vertical-thumbs .epl-slider-slides {
+				cursor: move; position: absolute; right: 135px; top: 0px; width: 800px;
+				height: 400px; overflow: hidden;
+			}
+			.epl-slider-has-vertical-thumbs .epl-slider-left-nav,.epl-slider-has-vertical-thumbs .epl-slider-right-nav {
+				display: block;
+				position: absolute;
+				/* size of arrow element */
+				width: 50px;
+				height: 50px;
+				cursor: pointer;
+				background: url(https://sammoussa.com/wp-content/plugins/epl-sliders//img/arrows/a13.png) no-repeat;
+				overflow: hidden;
+			}
+
+			.epl-slider-has-vertical-thumbs .epl-slider-left-nav { background-position: -5px -35px; top: 158px; left: 8px; }
+			.epl-slider-has-vertical-thumbs .epl-slider-right-nav { background-position: -65px -35px; top: 158px; right: 145px }
+			.epl-slider-has-vertical-thumbs .epl-slider-left-nav:hover { background-position: -125px -35px; }
+			.epl-slider-has-vertical-thumbs .epl-slider-right-nav:hover { background-position: -185px -35px; }
+			.epl-slider-has-vertical-thumbs .epl-slider-left-nav.epl-slider-left-navdn { background-position: -245px -35px; }
+			.epl-slider-has-vertical-thumbs .epl-slider-right-nav.epl-slider-right-navdn { background-position: -305px -35px; }
+
+			.epl-slider-has-vertical-thumbs .epl-slider-thumb-container {
+				position: absolute;
+				/* size of thumbnail navigator container */
+				width: 135px;
+				height: 270px;
+				right:0;
+			}
+
+			.epl-slider-has-vertical-thumbs .epl-slider-thumb-container .p {
+				position: absolute;
+				top: 0;
+				right: 0;
+				width: 120px;
+				height: 120px;
+			}
+
+			.epl-slider-has-vertical-thumbs .epl-slider-thumb-container .t {
+				position: absolute;
+				top: 0;
+				right: 0;
+				width: 100%;
+				height: 100%;
+				border: none;
+			}
+
+			.epl-slider-has-vertical-thumbs .epl-slider-thumb-container .w {
+				position: absolute;
+				top: 0px;
+				right: 0px;
+				width: 100%;
+				height: 100%;
+			}
+
+			.epl-slider-has-vertical-thumbs .epl-slider-thumb-container .c {
+				position: absolute;
+				top: 0px;
+				right: 0px;
+				width: 120px;
+				height: 120px;
+				box-sizing: content-box;
+				background: url(https://sammoussa.com/wp-content/plugins/epl-sliders/img/t01.png) -800px -800px no-repeat;
+				_background: none;
+			}
+
+			.epl-slider-has-vertical-thumbs .epl-slider-thumb-container .pav .c {
+				top: 2px;
+				_top: 0px;
+				right: 2px;
+				_left: 0px;
+				width: 120px;
+				height: 120px;
+				background-position: 50% 50%;
+			}
+
+			.epl-slider-has-vertical-thumbs .epl-slider-thumb-container .p:hover .c {
+				top: 0px;
+				right: 0px;
+				width: 120px;
+				height: 120px;
+				border: #fff 1px solid;
+				background-position: 50% 50%;
+			}
+
+			.epl-slider-has-vertical-thumbs .epl-slider-thumb-container .p.pdn .c {
+				background-position: 50% 50%;
+				width: 120px;
+				height: 120px;
+				border: #000 2px solid;
+			}
+
+			* html .epl-slider-has-vertical-thumbs .epl-slider-thumb-container .c, * html .epl-slider-has-vertical-thumbs .epl-slider-thumb-container .pdn .c, * html .epl-slider-has-vertical-thumbs .epl-slider-thumb-container .pav .c {
+				/* ie quirks mode adjust */
+				width: 120px;
+				height: 120px;
+			}
+
+			.epl-slider-has-vertical-thumbs .epl-slider-slides img{
+				margin: 0;
+				padding:0;
+			}
+			.epl-slider-has-vertical-thumbs .epl-slider-thumb-container img{
+				margin: 0;
+				padding:0;
+			}
+		</style>		<style>
+			.epl_slider_partial_slides .epl-slider-hidden-slides {
+			    opacity: 1;
+			}
+			.epl-slider-has-horizontal-thumbs, .epl-slider-no-thumbs {
+				position: relative; width: 800px;
+				height: 400px; overflow: hidden;
+			}
+
+			.epl-slider-has-horizontal-thumbs .epl-slider-slides, .epl-slider-no-thumbs .epl-slider-slides {
+				cursor: move; position: absolute; left: 0px; top: 0px; width: 800px;
+				height: 400px; overflow: hidden;
+			}
+			.epl-slider-has-horizontal-thumbs .epl-slider-left-nav, .epl-slider-has-horizontal-thumbs .epl-slider-right-nav,
+			.epl-slider-no-thumbs .epl-slider-left-nav, .epl-slider-no-thumbs .epl-slider-right-nav {
+				display: block;
+				position: absolute;
+				/* size of arrow element */
+				width: 50px;
+				height: 50px;
+				cursor: pointer;
+				background: url(https://sammoussa.com/wp-content/plugins/epl-sliders//img/arrows/a13.png) no-repeat;
+				overflow: hidden;
+			}
+
+			.epl-slider-has-horizontal-thumbs .epl-slider-left-nav, .epl-slider-no-thumbs .epl-slider-left-nav{ 
+				background-position: -5px -35px; top: 158px; left: 8px; 
+			}
+			.epl-slider-has-horizontal-thumbs  .epl-slider-right-nav, .epl-slider-no-thumbs  .epl-slider-right-nav { background-position: -65px -35px; top: 158px; right: 8px }
+			.epl-slider-has-horizontal-thumbs  .epl-slider-left-nav:hover, .epl-slider-no-thumbs  .epl-slider-left-nav:hover{ background-position: -125px -35px; }
+			.epl-slider-has-horizontal-thumbs  .epl-slider-right-nav:hover, .epl-slider-no-thumbs  .epl-slider-right-nav:hover  { background-position: -185px -35px; }
+			.epl-slider-has-horizontal-thumbs  .epl-slider-left-nav.epl-slider-left-navdn, .epl-slider-no-thumbs  .epl-slider-left-nav.epl-slider-left-navdn { background-position: -245px -35px; }
+			.epl-slider-has-horizontal-thumbs  .epl-slider-right-nav.epl-slider-right-navdn, .epl-slider-no-thumbs  .epl-slider-right-nav.epl-slider-right-navdn { background-position: -305px -35px; }
+
+			.epl-slider-has-horizontal-thumbs .epl-slider-thumb-container, .epl-slider-no-thumbs .epl-slider-thumb-container {
+				position: absolute;
+				/* size of thumbnail navigator container */
+				width: 800px;
+				height: 135px;
+				left:0;
+				bottom:0;
+			}
+
+			.epl-slider-has-horizontal-thumbs .epl-slider-thumb-container .p , .epl-slider-no-thumbs .epl-slider-thumb-container .p {
+				position: absolute;
+				top: 0;
+				right: 0;
+				width: 120px;
+				height: 120px;
+			}
+
+			.epl-slider-has-horizontal-thumbs .epl-slider-thumb-container .t, .epl-slider-no-thumbs .epl-slider-thumb-container .t {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				border: none;
+			}
+
+			.epl-slider-has-horizontal-thumbs .epl-slider-thumb-container .w , .epl-slider-no-thumbs .epl-slider-thumb-container .w {
+				position: absolute;
+				top: 0px;
+				left: 0px;
+				width: 100%;
+				height: 100%;
+			}
+
+			.epl-slider-has-horizontal-thumbs .epl-slider-thumb-container .c, .epl-slider-no-thumbs .epl-slider-thumb-container .c {
+				position: absolute;
+				top: 0px;
+				left: 0px;
+				width: 120px;
+				height: 120px;
+				box-sizing: content-box;
+				background: url(https://sammoussa.com/wp-content/plugins/epl-sliders/img/t01.png) -800px -800px no-repeat;
+				_background: none;
+			}
+
+			.epl-slider-has-horizontal-thumbs .epl-slider-thumb-container .pav .c , .epl-slider-no-thumbs .epl-slider-thumb-container .pav .c {
+				top: 2px;
+				_top: 0px;
+				left: 2px;
+				_left: 0px;
+				width: 120px;
+				height: 120px;
+				background-position: 50% 50%;
+			}
+
+			.epl-slider-has-horizontal-thumbs .epl-slider-thumb-container .p:hover .c , .epl-slider-no-thumbs .epl-slider-thumb-container .p:hover .c {
+				top: 0px;
+				left: 0px;
+				width: 120px;
+				height: 120px;
+				border: #fff 1px solid;
+				background-position: 50% 50%;
+			}
+
+			.epl-slider-has-horizontal-thumbs .epl-slider-thumb-container .p.pdn .c, .epl-slider-no-thumbs .epl-slider-thumb-container .p.pdn .c {
+				background-position: 50% 50%;
+				width: 120px;
+				height: 120px;
+				border: #000 2px solid;
+			}
+
+			* html .epl-slider-has-horizontal-thumbs  .epl-slider-thumb-container .c, * html .epl-slider-has-horizontal-thumbs  .epl-slider-thumb-container .pdn .c, * html .epl-slider-has-horizontal-thumbs  .epl-slider-thumb-container .pav .c 
+			* html .epl-slider-no-thumbs  .epl-slider-thumb-container .c, * html .epl-slider-no-thumbs  .epl-slider-thumb-container .pdn .c, * html .epl-slider-no-thumbs  .epl-slider-thumb-container .pav .c {
+				/* ie quirks mode adjust */
+				width: 120px;
+				height: 120px;
+			}
+
+			.epl-slider-has-horizontal-thumbs .epl-slider-slides img , .epl-slider-no-thumbs .epl-slider-slides img{
+				margin: 0;
+				padding:0;
+			}
+			.epl-slider-has-horizontal-thumbs .epl-slider-thumb-container img, .epl-slider-no-thumbs .epl-slider-thumb-container img{
+				margin: 0;
+				padding:0;
+			}
+		</style><script>
+					var eplSliderIsArchive  = 0;
+					var eplSliderOptions 	= {"$AutoPlay":false,"$AutoPlayInterval":5000,"$PauseOnHover":1,"$DragOrientation":3,"$ArrowKeyNavigation":false,"$SlideDuration":1200,"$SlideshowOptions":{"$Class":"$JssorSlideshowRunner$","$Transitions":"_SlideshowTransitions","$TransitionsOrder":1,"$ShowLink":true},"$ArrowNavigatorOptions":{"$Class":"$JssorArrowNavigator$","$ChanceToShow":1,"$AutoCenter":2,"$Steps":1},"$ThumbnailNavigatorOptions":{"$Class":"$JssorThumbnailNavigator$","$ChanceToShow":0,"$ActionMode":1,"$Lanes":1,"$SpacingX":5,"$SpacingY":5,"$DisplayPieces":4,"$ParkingPosition":156,"$Orientation":2}};
+					var $_transitionChosen 	= "fade_in_l";
+				</script><style>
+					.epl-slider-slides {
+						right:0!important;
+					}
+					.epl-slider-thumb-container {
+						width:0!important;
+					}
+					.epl-slider-right-nav{
+						right:8px!important;
+					}
+				</style><!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2123036991265612');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2123036991265612&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- FB Ads Verification -->
+<meta name="facebook-domain-verification" content="po7fght3bf7b8t88b03q4yesczclya" /><!-- Google Code for Interact with Footer Email Conversion Page
+In your html page, add the snippet and call
+goog_report_conversion when someone clicks on the
+chosen link or button. -->
+<script type="text/javascript">
+  /* <![CDATA[ */
+  goog_snippet_vars = function() {
+    var w = window;
+    w.google_conversion_id = 854947245;
+    w.google_conversion_label = "0bWACO2x1nEQrevVlwM";
+    w.google_remarketing_only = false;
+  }
+  // DO NOT CHANGE THE CODE BELOW.
+  goog_report_conversion = function(url) {
+    goog_snippet_vars();
+    window.google_conversion_format = "3";
+    var opt = new Object();
+    opt.onload_callback = function() {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  }
+  var conv_handler = window['google_trackConversion'];
+  if (typeof(conv_handler) == 'function') {
+    conv_handler(opt);
+  }
+}
+/* ]]> */
+</script>
+<script type="text/javascript"
+  src="//www.googleadservices.com/pagead/conversion_async.js">
+</script>
+            <style type="text/css">
+                                a.btn.btn-primary.btn-block.btn-filter-search-results { color: white !important; }
+            </style>
+            <script type="text/javascript">var ajaxurl = 'https://sammoussa.com/wp-admin/admin-ajax.php'</script>
+
+<link rel="icon" href="https://sammoussa.com/wp-content/uploads/2020/11/cropped-Sam-Moussa-Favi-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://sammoussa.com/wp-content/uploads/2020/11/cropped-Sam-Moussa-Favi-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://sammoussa.com/wp-content/uploads/2020/11/cropped-Sam-Moussa-Favi-180x180.png" />
+<meta name="msapplication-TileImage" content="https://sammoussa.com/wp-content/uploads/2020/11/cropped-Sam-Moussa-Favi-270x270.png" />
+<style id="x-generated-css">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.x-comment-time:hover,#reply-title small a,.comment-reply-link:hover,.x-comment-author a:hover,.x-recent-posts a:hover .h-recent-posts{color:#38255d;}a:hover,#reply-title small a:hover{color:#211d40;}.entry-title:before{color:#dddddd;}a.x-img-thumbnail:hover,li.bypostauthor > article.comment{border-color:#38255d;}.flex-direction-nav a,.flex-control-nav a:hover,.flex-control-nav a.flex-active,.x-dropcap,.x-skill-bar .bar,.x-pricing-column.featured h2,.h-comments-title small,.x-pagination a:hover,.x-entry-share .x-share:hover,.entry-thumb,.widget_tag_cloud .tagcloud a:hover,.widget_product_tag_cloud .tagcloud a:hover,.x-highlight,.x-recent-posts .x-recent-posts-img:after,.x-portfolio-filters{background-color:#38255d;}.x-portfolio-filters:hover{background-color:#211d40;}.x-main{width:calc(72% - 3.20197%);}.x-sidebar{width:calc(100% - 3.20197% - 72%);}.h-landmark{font-weight:400;}.x-comment-author a{color:#777777;}.x-comment-author a,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar caption,.widget_calendar #wp-calendar th,.x-accordion-heading .x-accordion-toggle,.x-nav-tabs > li > a:hover,.x-nav-tabs > .active > a,.x-nav-tabs > .active > a:hover{color:#38255d;}.widget_calendar #wp-calendar th{border-bottom-color:#38255d;}.x-pagination span.current,.x-portfolio-filters-menu,.widget_tag_cloud .tagcloud a,.h-feature-headline span i,.widget_price_filter .ui-slider .ui-slider-handle{background-color:#38255d;}@media (max-width:978.98px){}html{font-size:16px;}@media (min-width:480px){html{font-size:16px;}}@media (min-width:767px){html{font-size:16px;}}@media (min-width:979px){html{font-size:16px;}}@media (min-width:1200px){html{font-size:16px;}}body{font-style:normal;font-weight:400;color:#777777;background-color:#ffffff;}.w-b{font-weight:400 !important;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Libre Baskerville",serif;font-style:normal;font-weight:400;}h1,.h1{letter-spacing:-0.035em;}h2,.h2{letter-spacing:-0.035em;}h3,.h3{letter-spacing:-0.035em;}h4,.h4{letter-spacing:-0.035em;}h5,.h5{letter-spacing:-0.035em;}h6,.h6{letter-spacing:-0.035em;}.w-h{font-weight:400 !important;}.x-container.width{width:90%;}.x-container.max{max-width:1260px;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:978.98px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:1rem;}body,input,button,select,textarea{font-family:"Open Sans",sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:#38255d;}.cfc-h-tx{color:#38255d !important;}.cfc-h-bd{border-color:#38255d !important;}.cfc-h-bg{background-color:#38255d !important;}.cfc-b-tx{color:#777777 !important;}.cfc-b-bd{border-color:#777777 !important;}.cfc-b-bg{background-color:#777777 !important;}.x-btn,.button,[type="submit"]{color:#ffffff;border-color:rgb(177,151,75);background-color:rgb(177,151,75);margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 rgba(177,151,75,0.7),0 4px 9px rgba(0,0,0,0.75);border-radius:0.25em;padding:0.579em 1.105em 0.842em;font-size:19px;}.x-btn:hover,.button:hover,[type="submit"]:hover{color:#ffffff;border-color:rgba(177,151,75,0.7);background-color:rgba(177,151,75,0.7);margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 rgba(177,151,75,0.4),0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 rgba(177,151,75,0.7),0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 rgba(177,151,75,0.4),0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}.x-topbar .p-info,.x-topbar .p-info a,.x-topbar .x-social-global a{color:#ffffff;}.x-topbar .p-info a:hover{color:#959baf;}.x-topbar{background-color:rgba(47,28,73,0.7);}.x-navbar .desktop .x-nav > li:before{padding-top:37px;}.x-navbar .desktop .x-nav > li > a,.x-navbar .desktop .sub-menu li > a,.x-navbar .mobile .x-nav li a{color:#ffffff;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu li > a:hover,.x-navbar .desktop .sub-menu li.x-active > a,.x-navbar .desktop .sub-menu li.current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav li.x-active > a,.x-navbar .mobile .x-nav li.current-menu-item > a{color:#ffffff;}.x-btn-navbar,.x-btn-navbar:hover{color:#ffffff;}.x-navbar .desktop .sub-menu li:before,.x-navbar .desktop .sub-menu li:after{background-color:#ffffff;}.x-navbar,.x-navbar .sub-menu{background-color:#39255e !important;}.x-btn-navbar,.x-btn-navbar.collapsed:hover{background-color:#625a87;}.x-btn-navbar.collapsed{background-color:#55468c;}.x-navbar .desktop .x-nav > li > a:hover > span,.x-navbar .desktop .x-nav > li.x-active > a > span,.x-navbar .desktop .x-nav > li.current-menu-item > a > span{box-shadow:0 2px 0 0 #ffffff;}.x-navbar .desktop .x-nav > li > a{padding-top:calc((40px - 16px) / 2);padding-bottom:calc((40px - 16px) / 2);padding-left:10%;padding-right:10%;}.desktop .x-megamenu > .sub-menu{width:calc(879px - 215px);}.x-widgetbar{left:215px;}.x-navbar .desktop .x-nav > li ul{top:90px;}.x-colophon.bottom{background-color:#c49d2d;}.x-colophon.bottom,.x-colophon.bottom a,.x-colophon.bottom .x-social-global a{color:#ffffff;}body.x-navbar-fixed-left-active{padding-left:215px;}.x-navbar{width:215px;}.x-navbar-inner{min-height:90px;}.x-brand{margin-top:30px;font-family:"Libre Baskerville",serif;font-size:24px;font-style:normal;font-weight:700;letter-spacing:-1em;color:#272727;}.x-brand:hover,.x-brand:focus{color:#272727;}.x-brand img{width:calc(365px / 2);}.x-navbar .x-nav-wrap .x-nav > li > a{font-family:"Open Sans",sans-serif;font-style:normal;font-weight:300;letter-spacing:0.085em;}.x-navbar .desktop .x-nav > li > a{font-size:16px;}.x-navbar .desktop .x-nav > li > a > span{margin-right:-0.085em;}.x-btn-navbar{margin-top:24;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:20;}@media (max-width:979px){body.x-navbar-fixed-left-active,body.x-navbar-fixed-right-active{padding:0;}.x-navbar{width:auto;}.x-navbar .x-navbar-inner > .x-container.width{width:90%;}.x-brand{margin-top:10px;}.x-widgetbar{left:0;right:0;}}.x-colophon.bottom{background-color:#c49d2d;}.x-colophon.bottom,.x-colophon.bottom a,.x-colophon.bottom .x-social-global a{color:#ffffff;}@font-face{font-family:'FontAwesomePro';font-style:normal;font-weight:900;font-display:block;src:url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-solid-900.woff2') format('woff2'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-solid-900.woff') format('woff'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-solid-900.ttf') format('truetype');}[data-x-fa-pro-icon]{font-family:"FontAwesomePro" !important;}[data-x-fa-pro-icon]:before{content:attr(data-x-fa-pro-icon);}[data-x-icon],[data-x-icon-o],[data-x-icon-l],[data-x-icon-s],[data-x-icon-b],[data-x-fa-pro-icon],[class*="cs-fa-"]{display:inline-block;font-style:normal;font-weight:400;text-decoration:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}[data-x-icon].left,[data-x-icon-o].left,[data-x-icon-l].left,[data-x-icon-s].left,[data-x-icon-b].left,[data-x-fa-pro-icon].left,[class*="cs-fa-"].left{margin-right:0.5em;}[data-x-icon].right,[data-x-icon-o].right,[data-x-icon-l].right,[data-x-icon-s].right,[data-x-icon-b].right,[data-x-fa-pro-icon].right,[class*="cs-fa-"].right{margin-left:0.5em;}[data-x-icon]:before,[data-x-icon-o]:before,[data-x-icon-l]:before,[data-x-icon-s]:before,[data-x-icon-b]:before,[data-x-fa-pro-icon]:before,[class*="cs-fa-"]:before{line-height:1;}@font-face{font-family:'FontAwesome';font-style:normal;font-weight:900;font-display:block;src:url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-solid-900.woff2') format('woff2'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-solid-900.woff') format('woff'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-solid-900.ttf') format('truetype');}[data-x-icon],[data-x-icon-s],[data-x-icon][class*="cs-fa-"]{font-family:"FontAwesome" !important;font-weight:900;}[data-x-icon]:before,[data-x-icon][class*="cs-fa-"]:before{content:attr(data-x-icon);}[data-x-icon-s]:before{content:attr(data-x-icon-s);}@font-face{font-family:'FontAwesomeRegular';font-style:normal;font-weight:400;font-display:block;src:url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-regular-400.woff2') format('woff2'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-regular-400.woff') format('woff'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-regular-400.ttf') format('truetype');}@font-face{font-family:'FontAwesomePro';font-style:normal;font-weight:400;font-display:block;src:url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-regular-400.woff2') format('woff2'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-regular-400.woff') format('woff'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-regular-400.ttf') format('truetype');}[data-x-icon-o]{font-family:"FontAwesomeRegular" !important;}[data-x-icon-o]:before{content:attr(data-x-icon-o);}@font-face{font-family:'FontAwesomeLight';font-style:normal;font-weight:300;font-display:block;src:url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-light-300.woff2') format('woff2'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-light-300.woff') format('woff'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-light-300.ttf') format('truetype');}@font-face{font-family:'FontAwesomePro';font-style:normal;font-weight:300;font-display:block;src:url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-light-300.woff2') format('woff2'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-light-300.woff') format('woff'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-light-300.ttf') format('truetype');}[data-x-icon-l]{font-family:"FontAwesomeLight" !important;font-weight:300;}[data-x-icon-l]:before{content:attr(data-x-icon-l);}@font-face{font-family:'FontAwesomeBrands';font-style:normal;font-weight:normal;font-display:block;src:url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-brands-400.woff2') format('woff2'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-brands-400.woff') format('woff'),url('https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-brands-400.ttf') format('truetype');}[data-x-icon-b]{font-family:"FontAwesomeBrands" !important;}[data-x-icon-b]:before{content:attr(data-x-icon-b);}.e32-4.x-line {padding:48px 0 0 0;font-size:1em;}.e32-6.x-line {padding:33px 0 0 0;font-size:1em;}.e32-19.x-line {padding:25px 0 0 0;font-size:1em;}.e32-7.x-line {width:100%;max-width:none;margin:7px 0px 15px 0px;border-width:1px 0 0 0;border-style:solid;border-color:hsla(0,0%,56%,0.5);font-size:0.62em;transition-timing-function:cubic-bezier(0.400,0.000,0.200,1.000);}.e32-15.x-line {width:90%;max-width:none;margin:7px 0px 10px 0px;border-width:1px 0 0 0;border-style:solid;border-color:hsla(0,0%,56%,0.5);font-size:0.62em;transition-timing-function:cubic-bezier(0.400,0.000,0.200,1.000);}.e32-45.x-widget-area {font-size:16px;transition-timing-function:cubic-bezier(0.400,0.000,0.200,1.000);}.e32-45.x-widget-area .widget:not(:first-child) {margin:2.5rem 0 0;}.e32-45.x-widget-area .widget .h-widget {margin:0 0 0.5em;}.x-navbar{box-shadow:0 0 35px rgba(0,0,0,0.25);}.x-navbar .desktop .x-nav > li > a:hover > span,.x-navbar .desktop .x-nav > li.x-active > a > span,.x-navbar .desktop .x-nav > li.current-menu-item > a > span{box-shadow:none;}.x-navbar .desktop .x-nav > li > a > span > i{opacity:0.5;}.x-navbar .desktop .x-nav > li > a:hover > span > i,.x-navbar .desktop .x-nav > li.x-active > a > span > i,.x-navbar .desktop .x-nav > li.current-menu-item > a > span > i{opacity:1;}.x-btn,.button,input[type="submit"]{text-transform:uppercase;text-shadow:none;font-weight:bold;font-size:14px !important;letter-spacing:1px;padding:1em 3em !important;}.x-btn.button-purple,.button.button-purple,input[type="submit"].button-purple{color:#ffffff;border-color:#38255d;background-color:#38255d;box-shadow:0 0.25em 0 0 #211d40,0 4px 9px rgba(0,0,0,0.75);}.x-btn.button-purple:hover,.button.button-purple:hover,input[type="submit"]:hover{color:#ffffff;border-color:#211d40;background-color:#211d40;box-shadow:0 0.25em 0 0 #191631,0 4px 9px rgba(0,0,0,0.75);}.period-white{color:#fff;}.period-yellow{color:#c59d2c;}.accent-yellow{color:#c59d2c;}.x-li-icon i{color:#c59d2c;}.section-icon{width:2.5em;height:2.5em;font-size:1.5em;line-height:2.5em;color:#fff;background-color:rgba(0,0,0,0.1);border-radius:100em;box-shadow:inset 0 1px 4px rgba(0,0,0,0.2);}.admissions-icon{font-size:2.5em;line-height:1;opacity:0.425;}.dark-text{color:#333;}.x-accordion{font-size:0.85em;}.x-accordion-inner{background-color:#fff;}.img-gallery{display:block;width:400px;margin:0 auto;box-shadow:0 0 35px rgba(0,0,0,0.285);}.x-colophon.top{background-color:#e1e6ea;font-size:0.875em;padding:4.6em 0 4.6em 0;}.x-colophon.bottom{padding:2.5em 0 2.5em 0;}.x-colophon.top a{color:#777777;}.x-colophon.top a:hover,.x-colophon.top a:focus{color:#38255d;}.x-navbar-fixed-left .x-navbar-inner,.x-navbar-fixed-right .x-navbar-inner{height:100%;box-shadow:5px 5px 5px #333;}.x-header-landmark{display:none;}h1.archive-title{display:none;}span.item-suburb{font-weight:100;}span.item-city{font-weight:100;}span.item-state{font-weight:100;}span.item-pcode{font-weight:100;}.
+-property-single h3{margin:0 0 0.2em;}.wpcf7 p{margin-bottom:0.375em;margin-top:1em;}span.entry-title-sub{color:#333;font-weight:100;font-size:1em;}.entry-title-sub{display:block;font-size:128.5%;font-weight:100;color:#bfbfbf;line-height:1.1;}h2.entry-title{position:relative;margin:0;font-size:170%;line-height:1.2;}span.item-street{font-weight:100;}.epl-property-single h1.entry-title{margin-bottom:1em;margin-top:1em;}.epl-author-box .epl-author-title{margin-top:0.5em;margin-bottom:0.5em;}.epl-search-form.epl-sb-current{display:inherit;border-style:outset;border-width:2px;padding:1em;}.epl-search-form .epl-search-other{margin-top:6px;display:none;}.epl-contact-agent{display:none;}.x-colophon.bottom{background-image:url("http://staging.sammoussa.com/wp-content/uploads/2016/07/background-home-page-gold-footer.jpg");}.entry-featured{position:relative;margin-top:25px;border:2px solid #e5e5e5;padding:6px;background-color:#fff;display:none;}.email-icon-24{background:url(../images/social-icons-sprites.png) 0 0 no-repeat;display:none;}.x-topbar .x-social-global{margin-top:9px;}.entry-content embed,.entry-content iframe,.entry-content object{height:568px;}ul{margin:0 0 1.5em 1em;}.tab-content ul,.tab-content ol{list-style-position:inside;font-size:13px;}.x-topbar .p-info a:hover{color:#BE9931;}time.entry-date{display:none;}.epl-2-column-option-3 .entry-title-sub{line-height:0.01;color:#333;}span.item-street{color:#333;font-weight:700;}.epl-tab-section{overflow:hidden;margin-top:0;}h5.epl-tab-title{margin-top:1.5em !important;}@media screen and (max-width:500px){.epl-property-single.view-2-column .entry-2-col.content-col{width:110%;}}.epl-property-blog.suburb-top{padding:0 0 0.5em 0;}.p-meta{margin:8px 0 0;line-height:1.5;display:none;}div.entry-summary{margin-top:1em;}.property-box .entry-title{font-size:1.5em;line-height:1.3;}@media screen and (max-width:500px){.epl-property-blog .entry-header .address,.epl-property-blog .entry-header .property-price,.epl-property-blog-slim .entry-header .address,.epl-property-blog-slim .entry-header .property-price{display:block;float:left;width:100%;text-align:left;line-height:2em;}}.h-widget{font-size:200%;}.footer-text-style{font-size:1.08em;}div.entry-wrap{margin:2em 0 2em 0;}h1.entry-title{line-height:1.5em;}@media screen and (max-width:500px){span.address.price.alignright{line-height:1.2em;padding-top:0.5em;}}.x-navbar .desktop .sub-menu li > a{font-size:1.2em;}.x-navbar .desktop .sub-menu li > a:hover{color:#BE9931;}li.commercial-category{display:none;}span.page-price-prefix{display:none;}.property-details{display:none;}.epl-2-column-option-3 .property-meta.pricing{float:none;text-align:left;margin-top:1.5em;font-size:2em;font-weight:normal;font-family:"Libre Baskerville",serif;}.epl-property-blog.card-top .epl-property-blog-entry-wrapper{padding:0.5em;border:none;border-radius:3px;margin-bottom:none;}.epl-property-single .status-sticker.new,.epl-property-blog .status-sticker.new{background:#800080;}@media (max-width:480px){.epl-property-single .status-sticker.new,.epl-property-blog .status-sticker.new{display:none;}}h1.entry-title{line-height:1.2em;}.epl-property-single.view-2-column .content-col .entry-title{margin-top:1em;}.bootstrap-realtypress .container-fluid{margin-right:auto;margin-left:auto;margin-top:55px;margin-bottom:55px;padding-left:55px;padding-right:55px;}@media (max-width:480px){.bootstrap-realtypress .container-fluid{margin-right:auto;margin-left:auto;margin-top:75px;margin-bottom:75px;padding-left:55px;padding-right:55px;}}@media (max-width:768px){.bootstrap-realtypress .container-fluid{margin-right:auto;margin-left:auto;margin-top:35px;margin-bottom:35px;padding-left:25px;padding-right:25px;}}.bootstrap-realtypress .rps-list-result .rps-property-result{background:#fafafa;border:1px solid #e5e5e5;margin:0 0 35px 0;}.contest-style{font-size:1.08em;color:#e11b22;}div.epl-tab-section.epl-tab-section-commercial-features{display:none;}div.epl-tab-content-additional{display:none;}.epl-property-single.view-2-column.epl-2-column-option-3{display:none;}.x-btn-navbar{margin-top:1em;}</style><style id="cornerstone-custom-page-css">.x-recent-posts a{box-shadow:0em 1em 1em 0em;}.x-recent-posts .h-recent-posts{margin:15px 0 5px;}.x-recent-posts .x-recent-posts-date{margin:0 0 -20px 0;}</style>
+<!-- Google Analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-73564131-1', 'auto');
+    ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i,300%7CLibre+Baskerville:400,700&#038;subset=latin,latin-ext&#038;display=auto" type="text/css" media="all" data-x-google-fonts /></head>
+
+<body class="home page-template page-template-template-blank-4 page-template-template-blank-4-php page page-id-32 x-renew x-full-width-layout-active x-full-width-active x-page-title-disabled x-navbar-fixed-left-active x-v8_0_11 cornerstone-v5_0_11">
+
+  
+  
+  <div id="x-root" class="x-root">
+
+    
+    <div id="top" class="site">
+
+    
+  
+  <header class="masthead masthead-inline" role="banner">
+    
+
+  <div class="x-topbar">
+    <div class="x-topbar-inner x-container max width">
+            <p class="p-info"><i style="font-size: 16px;" class="x-icon x-icon-phone" data-x-icon=""></i>  <a onclick="goog_report_conversion ('tel:+1-613-715-1482')" style="font-family: Arial; font-size: 16px;" href="tel:+1-613-715-1482">(613) 715-1482</a> 
+<br>
+<i style="font-size: 16px;" class="x-icon x-icon-envelope" data-x-icon=""></i>  <a onclick="goog_report_conversion ('mailto:sam@sammoussa.com')" style="font-size: 16px;" href="mailto:sam@sammoussa.com" target="_blank">sam@sammoussa.com</a></p>
+            <div class="x-social-global"><a href="https://www.facebook.com/sam.moussa.792" class="facebook" title="Facebook" target="blank" rel=""><i class="x-icon-facebook-square" data-x-icon-b="&#xf082;" aria-hidden="true"></i></a><a href="https://twitter.com/SamMoussa3" class="twitter" title="Twitter" target="blank" rel=""><i class="x-icon-twitter-square" data-x-icon-b="&#xf081;" aria-hidden="true"></i></a><a href="https://www.linkedin.com/in/sam-moussa-8490a753" class="linkedin" title="LinkedIn" target="blank" rel=""><i class="x-icon-linkedin-square" data-x-icon-b="&#xf08c;" aria-hidden="true"></i></a><a href="https://www.youtube.com/channel/UCEzmo-lnhPnfFE2aBQ7GCmA" class="youtube" title="YouTube" target="blank" rel=""><i class="x-icon-youtube-square" data-x-icon-b="&#xf431;" aria-hidden="true"></i></a></div>    </div>
+  </div>
+
+    
+
+  <div class="x-navbar-wrap">
+    <div class="x-navbar x-navbar-fixed-left">
+      <div class="x-navbar-inner">
+        <div class="x-container max width">
+          
+<a href="https://sammoussa.com/" class="x-brand img">
+  <img src="//sammoussa.com/wp-content/uploads/2017/06/sam-moussa-realty.png" alt="Sam Moussa Realty"></a>
+          
+<a href="#" id="x-btn-navbar" class="x-btn-navbar collapsed" data-x-toggle="collapse-b" data-x-toggleable="x-nav-wrap-mobile" aria-expanded="false" aria-controls="x-nav-wrap-mobile" role="button">
+  <i class="x-icon-bars" data-x-icon-s="&#xf0c9;"></i>
+  <span class="visually-hidden">Navigation</span>
+</a>
+
+<nav class="x-nav-wrap desktop" role="navigation">
+  <ul id="menu-primary-menu" class="x-nav"><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-32 current_page_item menu-item-33"><a title="Home" href="https://sammoussa.com/" aria-current="page"><span><i class="x-icon-home" data-x-icon=""></i> Home</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a title="About" href="https://sammoussa.com/about-sam-moussa/"><span><i class="x-icon-fa-users" data-x-icon=""></i> Meet the Team</span></a></li>
+<li id="menu-item-3863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3863"><a href="https://sammoussa.com/ottawa-property-listings/"><span><i class="x-fa-icon-list" data-x-icon=""></i> Listings</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-4292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4292"><a href="https://sammoussa.com/my-listings/"><span>Sam Moussa &#038; Team Listings</span></a></li>
+	<li id="menu-item-3862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="https://sammoussa.com/ottawa-property-listings/"><span>All Listings</span></a></li>
+	<li id="menu-item-3864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3864"><a href="https://sammoussa.com/ottawa-rental-listings/"><span>All Rental Listings</span></a></li>
+	<li id="menu-item-47479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47479"><a href="https://sammoussa.com/featured-commercial-listings/"><span>Featured Commercial Listings</span></a></li>
+	<li id="menu-item-3865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3865"><a href="https://sammoussa.com/commercial-listings-ottawa/"><span>All Commercial Listings</span></a></li>
+	<li id="menu-item-3895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3895"><a href="https://sammoussa.com/exlusive-listings/"><span>Exclusive/Upcoming</span></a></li>
+	<li id="menu-item-1857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1857"><a href="https://sammoussa.com/recently-sold-properties/"><span>Recently Sold Properties</span></a></li>
+</ul>
+</li>
+<li id="menu-item-4077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4077"><a href="https://sammoussa.com/sams-highlights-partnerships/"><span><strong>Sam&#8217;s Highlights &#038; Partners</strong></span></a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-130"><a href="#"><span><i class="x-icon-fa-arrow-circle-right" data-x-icon=""></i> Buyer Tools</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-964"><a href="https://sammoussa.com/mortgage-calculator/"><span>Mortgage Calculator</span></a></li>
+	<li id="menu-item-966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-966"><a href="https://sammoussa.com/land-transfer-tax-calculator/"><span>Land Transfer Tax Calculator</span></a></li>
+</ul>
+</li>
+<li id="menu-item-134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-134"><a href="#"><span><i class="x-icon-fa-arrow-circle-o-right" data-x-icon=""></i> Seller Tools</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://sammoussa.com/free-home-evaluation/"><span>Free Home Evaluation</span></a></li>
+	<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="https://sammoussa.com/selling-your-property/"><span>Selling Your Property</span></a></li>
+</ul>
+</li>
+<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143"><a href="#"><span><i class="x-icon-fa-street-view" data-x-icon=""></i> Resources</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-998"><a href="https://sammoussa.com/real-estate-service-providers/"><span>Real Estate Service Providers</span></a></li>
+	<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="https://sammoussa.com/schools-in-ottawa/"><span>Schools in Ottawa</span></a></li>
+</ul>
+</li>
+<li id="menu-item-965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://sammoussa.com/sam-moussa-blog-news-events/"><span><i class="x-fa-bullhorn" data-x-icon=""></i> Articles &#038; Events</span></a></li>
+<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://sammoussa.com/sam-moussa-testimonials/"><span><i class="x-icon-fa-quote-left" data-x-icon=""></i> Reviews on Sam</span></a></li>
+<li id="menu-item-972" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-972"><a href="/contact-sam-moussa/"><span><i class="x-fa-phone" data-x-icon=""></i> Inquiry with Sam</span></a></li>
+</ul></nav>
+
+<div id="x-nav-wrap-mobile" class="x-nav-wrap mobile x-collapsed" data-x-toggleable="x-nav-wrap-mobile" data-x-toggle-collapse="1" aria-hidden="true" aria-labelledby="x-btn-navbar">
+  <ul id="menu-primary-menu-1" class="x-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-32 current_page_item menu-item-33"><a title="Home" href="https://sammoussa.com/" aria-current="page"><span><i class="x-icon-home" data-x-icon=""></i> Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a title="About" href="https://sammoussa.com/about-sam-moussa/"><span><i class="x-icon-fa-users" data-x-icon=""></i> Meet the Team</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3863"><a href="https://sammoussa.com/ottawa-property-listings/"><span><i class="x-fa-icon-list" data-x-icon=""></i> Listings</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4292"><a href="https://sammoussa.com/my-listings/"><span>Sam Moussa &#038; Team Listings</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="https://sammoussa.com/ottawa-property-listings/"><span>All Listings</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3864"><a href="https://sammoussa.com/ottawa-rental-listings/"><span>All Rental Listings</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47479"><a href="https://sammoussa.com/featured-commercial-listings/"><span>Featured Commercial Listings</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3865"><a href="https://sammoussa.com/commercial-listings-ottawa/"><span>All Commercial Listings</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3895"><a href="https://sammoussa.com/exlusive-listings/"><span>Exclusive/Upcoming</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1857"><a href="https://sammoussa.com/recently-sold-properties/"><span>Recently Sold Properties</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4077"><a href="https://sammoussa.com/sams-highlights-partnerships/"><span><strong>Sam&#8217;s Highlights &#038; Partners</strong></span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-130"><a href="#"><span><i class="x-icon-fa-arrow-circle-right" data-x-icon=""></i> Buyer Tools</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-964"><a href="https://sammoussa.com/mortgage-calculator/"><span>Mortgage Calculator</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-966"><a href="https://sammoussa.com/land-transfer-tax-calculator/"><span>Land Transfer Tax Calculator</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-134"><a href="#"><span><i class="x-icon-fa-arrow-circle-o-right" data-x-icon=""></i> Seller Tools</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://sammoussa.com/free-home-evaluation/"><span>Free Home Evaluation</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="https://sammoussa.com/selling-your-property/"><span>Selling Your Property</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143"><a href="#"><span><i class="x-icon-fa-street-view" data-x-icon=""></i> Resources</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-998"><a href="https://sammoussa.com/real-estate-service-providers/"><span>Real Estate Service Providers</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="https://sammoussa.com/schools-in-ottawa/"><span>Schools in Ottawa</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://sammoussa.com/sam-moussa-blog-news-events/"><span><i class="x-fa-bullhorn" data-x-icon=""></i> Articles &#038; Events</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://sammoussa.com/sam-moussa-testimonials/"><span><i class="x-icon-fa-quote-left" data-x-icon=""></i> Reviews on Sam</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-972"><a href="/contact-sam-moussa/"><span><i class="x-fa-phone" data-x-icon=""></i> Inquiry with Sam</span></a></li>
+</ul></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  </header>
+
+    
+
+  <div class="x-main full" role="main">
+
+    
+      <article id="post-32" class="post-32 page type-page status-publish hentry no-post-thumbnail">
+        
+
+<div class="entry-content content">
+
+
+  <div id="cs-content" class="cs-content"  ><div id="x-section-1" class="x-section" style="margin: 0px;padding: 80px 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm cs-ta-center x-1-2" style="padding: 0px;" >
+<hr class="e32-4 x-line  x-hide-md x-hide-xs" >
+<h2  class="h-custom-headline man h3" style="font-size: 1.9em;"><span>Our New Partnership!</span></h2>
+<hr class="e32-6 x-line  x-hide-xs" >
+
+<hr class="e32-7 x-line  x-hide-lg x-hide-md x-hide-xl" />
+<div  class="x-video embed" style="box-shadow: 1em 1em 1em;"><div class="x-video-inner"><iframe width="560" height="315" src="https://www.youtube.com/embed/k43QCKT3Rrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div><hr  class="x-gap cs-hide-sm cs-hide-xs cs-hide-md" style="margin: 30px 0 0 0;"><a  class="x-img mtl x-img-link x-img-none"  href="http://www.remax.ca/on/sam-moussa-92425-ag/"  target="_blank" rel=""   data-options="thumbnail: 'http://4mu.ded.myftpupload.com/wp-content/uploads/2016/05/sam-moussa-remax.png'"><img src="http://4mu.ded.myftpupload.com/wp-content/uploads/2016/05/sam-moussa-remax.png" alt="Remax Absolute Realty"></a><div class="x-text man" style="font-size: 0.8em;"  ><p><em>Re/Max Absolute <br />Sam Moussa Realty. Inc. Brokerage.</em></p>
+</div><hr  class="x-gap cs-hide-lg cs-hide-xl cs-hide-md" style="margin: 50px 0 0 0;"></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><h1  class="h-custom-headline man h3" style="font-size: 1.9em;"><span>Sam Moussa Realty</span></h1>
+<hr class="e32-15 x-line  x-hide-sm x-hide-xs" />
+<hr  class="x-gap" style="margin: 15px 0 0 0;"><hr  class="x-gap cs-hide-xl cs-hide-lg cs-hide-md" style="margin: 15px 0 0 0;"><div  class="x-raw-content man" style="line-height: 2em;">A passionate residential and commercial Ottawa Real Estate Agent - Sam Moussa is dedicated to uniting those with their dream homes at an affordable solution.
+<br>
+<br>
+With one of the most locally trusted referral bases, Sam Moussa is dedicated to local buyers and sellers in obtaining their real estate Ottawa goals.
+<br>
+<br>
+Whether it's an upsize or downsize, Sam Moussa is here to deliver results to your expectations timely and professionally.
+<br>
+<br>
+<strong><em>** Named TOP 100 Agents in Canada (2019-2020)</em></strong>
+<br>
+<strong><em>** Top 1% of 2019 & 2020</em></strong>
+<br>
+<strong><em>** 2020 Titan Award</em></strong>
+<br>
+<strong><em>** Named #1 in Ottawa Commercial for Remax</em></strong>
+<br>
+<strong><em>** Named #21 in Canada for Remax Commercial</em></strong>
+<br>
+<strong><em>** Chairman's Award 2018 & 2019</em></strong></div>
+<hr class="e32-19 x-line" >
+<ul  class="x-block-grid man two-up" ><li  class="x-block-grid-item man" ><p><a href="http://4mu.ded.myftpupload.com/chairmans-club-award/" rel="attachment wp-att-41901"><img src="http://4mu.ded.myftpupload.com/wp-content/uploads/2020/05/chairmans-club-award.jpg" alt="Remax Chairmans Club Awards" width="187" height="86" class="alignleft size-full wp-image-41901" /></a></p>
+<p><img src="https://sammoussa.com/wp-content/uploads/2021/08/Titan-Club-Team-logo.jpg" alt="Titam Club Award" width="187" height="86" class="alignleft size-full wp-image-41901" /></a></p></li><li  class="x-block-grid-item" ><img src="http://4mu.ded.myftpupload.com/wp-content/uploads/2019/04/top-100-agents-2019.png" alt="Top 100 Real Estate Agents" width="189" height="162" class="alignleft size-full wp-image-3766" /></a></li></ul></div></div></div><div id="x-section-2" class="x-section bg-pattern parallax" style="margin: 0px;padding: 55px 0px; background-image: url(http://staging.sammoussa.com/wp-content/uploads/2016/05/bg-pattern-purple.png); background-color: #6c558f;"  data-x-element="section" data-x-params="{&quot;type&quot;:&quot;pattern&quot;,&quot;parallax&quot;:true}" ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><div  class="x-counter" data-x-element="counter" data-x-params="{&quot;numEnd&quot;:94,&quot;numSpeed&quot;:1500}"  style="color: #ffffff;"><div class="number-wrap w-h" style="color: #c49d2d;"><span class="number">0</span><span class="suffix">%</span></div><span class="text-below" style="color: #ffffff;">Repeat &amp; Referral Business</span></div><hr  class="x-gap cs-hide-xl cs-hide-lg cs-hide-md" style="margin: 45px 0 0 0;"></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><div  class="x-counter" data-x-element="counter" data-x-params="{&quot;numEnd&quot;:78,&quot;numSpeed&quot;:1500}"  style="color: #ffffff;"><div class="number-wrap w-h" style="color: #c49d2d;"><span class="number">0</span><span class="suffix">+</span></div><span class="text-below" style="color: #ffffff;">Total Homes Sold / Year</span></div></div></div></div><div id="x-section-3" class="x-section bg-image parallax" style="margin: 0px;padding: 80px 0px 70px; background-image: url(http://staging.sammoussa.com/wp-content/uploads/2016/05/bg-whiteboard.jpg); background-color: #dadfe3;"  data-x-element="section" data-x-params="{&quot;type&quot;:&quot;image&quot;,&quot;parallax&quot;:true}" ><div class="x-container" style="margin: 0px auto;padding: 0px 30px;"  ><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><h2  class="h-custom-headline man h4" style="font-size: 1.9em;"><span>An Ottawa Real Estate Reality</span></h2><hr  class="x-gap" style="margin: 30px 0 0 0;"><div  class="x-raw-content mtm mbl man" style="color: #333;">Are you a first-time home buyer? &nbsp;A seasoned seller? &nbsp;Either way, selling or buying a home in Ottawa is a major decision that can require much research and careful preparation. 
+<br>
+<br>
+With so many homes and buyers out there, it is often difficult and time-consuming to find the right home and/or buyer. &nbsp;Here at the Sam Moussa Team, we take all the guess work and effort out of your home buying/selling experience, with proven sales strategies and excellent client care service. 
+<br>
+<br>
+Let us do all the heavy lifting for you!</div></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><hr  class="x-gap cs-hide-lg cs-hide-xl cs-hide-sm cs-hide-xs" style="margin: 80px 0 0 0;"><div  class="x-video embed" style="box-shadow: 1em 1em 1em;"><div class="x-video-inner"><iframe src="https://www.youtube.com/embed/DCbbFRgP_yg?rel=0" frameborder="0" allowfullscreen></iframe></div></div></div></div></div><div id="x-section-4" class="x-section" style="margin: 0px;padding: 80px 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><h4  class="h-custom-headline man h4" style="font-size: 1.9em;"><span>Featured Properties</span></h4><div  class="x-raw-content mtl mbl" >Our recently featured Ottawa Real Estate Listings....</div><hr  class="x-gap" style="margin: 40px 0 0 0;">  <div class="e32-45 x-widget-area" >
+    <div>        <div class='realtypress-widget'>
+
+            
+            <div class="bootstrap-realtypress">
+                <div class="bootstrap-realtypress">
+    <div class="rps-listing-carousel rps-listing-carousel-shortcode horizontal carousel-widget314383 car-style">
+
+        <div class="panel panel-default">
+                        <div class="panel-body">
+                
+                
+                    <div class="bx-wrapper">
+                        <ul class="bx-slider">
+                            
+                            <li class="slide"><a href="https://sammoussa.com/properties/1505-baseline-road-unit915-ottawa-ontario-k2c-3l4-23708744/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637691082526500000/reb76/highres/7/1264917_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$319,900&lt;/div&gt; 1505 Baseline Road Unit#915&lt;br&gt;Ottawa, Ontario&lt;br&gt;&lt;div class='bed_bath'&gt;2 Bed | 1 Bath&lt;/div&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/90-landry-street-unit1106-ottawa-ontario-k1l-0a9-23561771/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637653066652100000/reb76/highres/9/1258059_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$1,900&lt;small&gt; Monthly&lt;/small&gt;&lt;/div&gt; 90 Landry Street Unit#1106&lt;br&gt;Ottawa, Ontario&lt;br&gt;&lt;div class='bed_bath'&gt;1 Bed | 1 Bath&lt;/div&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/1037-ottenbrite-crescent-ottawa-ontario-k2t-0g1-23663391/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637678986460430000/reb76/highres/7/1262017_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$2,400&lt;small&gt; Monthly&lt;/small&gt;&lt;/div&gt; 1037 Ottenbrite Crescent&lt;br&gt;Ottawa, Ontario&lt;br&gt;&lt;div class='bed_bath'&gt;4 Bed | 3 Bath&lt;/div&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/29-senators-gate-drive-unita-perth-ontario-k7h-0b5-23623483/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637668618445000000/reb76/highres/8/1260578_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$2,700&lt;small&gt; Monthly&lt;/small&gt;&lt;/div&gt; 29 Senators Gate Drive Unit#a&lt;br&gt;Perth, Ontario&lt;br&gt;&lt;div class='bed_bath'&gt;3 Bed | 3 Bath&lt;/div&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/29-senators-gate-drive-perth-ontario-k7h-0b5-23604016/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637666026464200000/reb76/highres/6/1259776_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$899,900&lt;/div&gt; 29 Senators Gate Drive&lt;br&gt;Perth, Ontario&lt;br&gt;&lt;div class='bed_bath'&gt;5 Bed | 3 Bath&lt;/div&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/2602-innes-road-ottawa-ontario-k1b-4z6-23453034/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637622970214830000/reb76/highres/0/1252810_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$15&lt;small&gt; / ft&lt;sup&gt;2&lt;/sup&gt;&lt;/small&gt;&lt;/div&gt; 2602 Innes Road&lt;br&gt;Ottawa, Ontario&lt;br&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/511-bank-street-ottawa-ontario-k2p-1z5-23460593/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637624554808400000/reb76/highres/5/1250525_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$1,499,000&lt;/div&gt; 511 Bank Street&lt;br&gt;Ottawa, Ontario&lt;br&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/104-fallbrook-road-perth-ontario-k0g-1a0-23556088/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637650474431030000/reb76/highres/1/1257701_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$2,500&lt;small&gt; Monthly&lt;/small&gt;&lt;/div&gt; 104 Fallbrook Road&lt;br&gt;Perth, Ontario&lt;br&gt;&lt;div class='bed_bath'&gt;3 Bed | 2 Bath&lt;/div&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/23-springwood-circle-stittsville-ontario-k2s1e2-888094419254/" class="slide-link" style="display:block;width:100%;background:url(https://sammoussa.com/wp-content/uploads/realtypress/images/listing/888094419254/Property-888094419254-LargePhoto-1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$749,900&lt;/div&gt; 23 Springwood Circle&lt;br&gt;Stittsville, Ontario&lt;br&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/710-gladstone-avenue-ottawa-ontario-k1r-6x3-23461675/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637624698707270000/reb76/highres/2/1250532_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$799,000&lt;/div&gt; 710 Gladstone Avenue&lt;br&gt;Ottawa, Ontario&lt;br&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/79-hinton-avenue-ottawa-ontario-k1y-0z7-23456291/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637623690244870000/reb76/highres/6/1252736_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$2,500&lt;small&gt; Monthly&lt;/small&gt;&lt;/div&gt; 79 Hinton Avenue&lt;br&gt;Ottawa, Ontario&lt;br&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/2580-innes-road-e-unit4-ottawa-ontario-k1b-4z6-23454029/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637623042294970000/reb76/highres/5/1252805_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$25&lt;small&gt; / ft&lt;sup&gt;2&lt;/sup&gt;&lt;/small&gt;&lt;/div&gt; 2580 Innes Road E Unit#4&lt;br&gt;Ottawa, Ontario&lt;br&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/511-rideau-street-unit2-ottawa-ontario-k1n-5z5-23452069/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637622826200830000/reb76/highres/2/1252732_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$2,200&lt;small&gt; Monthly&lt;/small&gt;&lt;/div&gt; 511 Rideau Street Unit#2&lt;br&gt;Ottawa, Ontario&lt;br&gt;&lt;div class='bed_bath'&gt;2 Bed | 2 Bath&lt;/div&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/538-540-bay-street-ottawa-ontario-k1r-6b7-23436578/" class="slide-link" style="display:block;width:100%;background:url(https://ddfcdn.realtor.ca/listings/TS637618542348570000/reb76/highres/7/1251867_1.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$1,149,900&lt;/div&gt; 538-540 Bay Street&lt;br&gt;Ottawa, Ontario&lt;br&gt;&lt;div class='bed_bath'&gt;6 Bed | 4 Bath&lt;/div&gt;"></a></li><li class="slide"><a href="https://sammoussa.com/properties/49-senators-gate-drive-under-contract-perth-ontario-k7a3p1-888563632306/" class="slide-link" style="display:block;width:100%;background:url(https://sammoussa.com/wp-content/uploads/realtypress/images/listing/888563632306/Property-888563632306-LargePhoto-49.jpg) no-repeat center !important;background-size:contain !important;"><img src="https://sammoussa.com/wp-content/plugins/realtypress-premium/public/img/trans-256x200.png" title="&lt;div class=&quot;price&quot;&gt;$2,800,000&lt;/div&gt; 49 Senators Gate Drive (Under Contract)&lt;br&gt;Perth, Ontario&lt;br&gt;"></a></li>                        </ul><!-- /.bx-slider -->
+                    </div><!-- /.bx-wrapper -->
+                
+                
+            </div><!-- /.panel-body -->
+        </div><!-- /.panel .panel-default -->
+        <script type="application/json" id="rps_sc_listing_carousel_json-widget314383"
+                class="rps_sc_listing_carousel_json">{"title":"","agent_id":"1922859,7751720832,7767545374","office_id":"","property_type":"","transaction_type":"","bedrooms":"0,10","bathrooms":"0,10","price":"0,1000000","street_address":"","city":"","neighbourhood":"","community":"","postal_code":"","description":"","province":"","building_type":"","construction_style":"","business_type":"","condominium":false,"pool":false,"waterfront":false,"open_house":false,"sold":false,"custom":false,"listing_id":"","mls":"","style":"horizontal","num_slides":20,"slide_width":300,"min_slides":1,"max_slides":10,"move_slides":1,"pager":true,"pager_type":"short","auto_rotate":true,"auto_controls":true,"speed":100,"captions":true,"class":"car-style","random":"widget314383"}</script>
+
+    </div><!-- /.rps-listing-carousel -->
+</div><!-- /.bootstrap-realtypress -->            </div><!-- /.bootstrap-realtypress -->
+        </div>
+        </div>  </div>
+
+  <hr  class="x-gap" style="margin: 40px 0 0 0;"><a  class="x-btn x-btn-large"  href="/ottawa-property-listings/" title="View All Available Properties"    data-options="thumbnail: ''">View All Properties</a></div></div></div><div id="x-section-5" class="x-section bg-image parallax" style="margin: 0px;padding: 80px 0px 70px; background-image: url(http://staging.sammoussa.com/wp-content/uploads/2016/05/bg-whiteboard.jpg); background-color: #dadfe3;"  data-x-element="section" data-x-params="{&quot;type&quot;:&quot;image&quot;,&quot;parallax&quot;:true}" ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><div  class="x-recent-posts cf horizontal"  data-x-element="recent_posts" data-x-params="{&quot;fade&quot;:false}"  data-fade="false" ><a class="x-recent-post3 with-image" href="https://sammoussa.com/art-of-listening/" title="Permalink to: &quot;Master the Art of Listening&quot;"><article id="post-121935" class="post-121935 post type-post status-publish format-standard has-post-thumbnail hentry category-financial tag-art-of-listening tag-master-art-of-listening"><div class="entry-wrap"><div class="x-recent-posts-img" style="background-image: url(https://sammoussa.com/wp-content/uploads/2021/08/master-art-of-listening.jpeg);"></div><div class="x-recent-posts-content"><h3 class="h-recent-posts">Master the Art of Listening</h3><span class="x-recent-posts-date">August 29, 2021</span></div></div></article></a><a class="x-recent-post3 with-image" href="https://sammoussa.com/estate-planning-benefits/" title="Permalink to: &quot;The Benefits of Estate Planning&quot;"><article id="post-115343" class="post-115343 post type-post status-publish format-standard has-post-thumbnail hentry category-home-care tag-estate-planning tag-estate-planning-benefits"><div class="entry-wrap"><div class="x-recent-posts-img" style="background-image: url(https://sammoussa.com/wp-content/uploads/2021/06/estate-planning.jpeg);"></div><div class="x-recent-posts-content"><h3 class="h-recent-posts">The Benefits of Estate Planning</h3><span class="x-recent-posts-date">June 21, 2021</span></div></div></article></a><a class="x-recent-post3 with-image" href="https://sammoussa.com/best-canadian-city-mellennials/" title="Permalink to: &quot;For Millennials, this is the Best City in Canada&quot;"><article id="post-114260" class="post-114260 post type-post status-publish format-standard has-post-thumbnail hentry category-real-estate-market-ottawa tag-best-canadian-city tag-best-canadian-city-for-milennials tag-best-cities-in-canada tag-canadian-cities-for-milennials"><div class="entry-wrap"><div class="x-recent-posts-img" style="background-image: url(https://sammoussa.com/wp-content/uploads/2021/06/best-city-ottawa.jpeg);"></div><div class="x-recent-posts-content"><h3 class="h-recent-posts">For Millennials, this is the Best City in Canada</h3><span class="x-recent-posts-date">June 10, 2021</span></div></div></article></a></div></div></div></div><div id="x-section-6" class="x-section cs-ta-center bg-pattern parallax" style="margin: 0px;padding: 75px 0px; background-image: url(http://staging.sammoussa.com/wp-content/uploads/2016/05/bg-pattern-purple.png); background-color: #6c558f;"  data-x-element="section" data-x-params="{&quot;type&quot;:&quot;pattern&quot;,&quot;parallax&quot;:true}" ><div class="x-container max width" style="margin: 0px auto;padding: 0px;max-width: 600px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><h3  class="h-custom-headline man x-hide-sm x-hide-xs h4" style="color: #ffffff;line-height: 45px;font-size: 1.9em;"><span>Contact Sam for a <br>Free Consultation Today!</span></h3><h5  class="h-custom-headline man x-hide-md x-hide-lg x-hide-xl h4" style="color: #ffffff;line-height: 40px;"><span>Contact Sam for a Free Consultation Today!</span></h5><hr  class="x-gap" style="margin: 30px 0 0 0;"><a  class="x-btn x-btn-flat x-btn-global"  href="/contact-sam-moussa/"  target="_blank" rel=""   data-options="thumbnail: ''"><i  class="x-icon mvn mln mrs x-icon-check-square-o" data-x-icon-o="&#xf14a;" aria-hidden="true"></i>Connect With Me Here</a></div></div></div></div>
+  
+
+</div>
+
+      </article>
+
+    
+  </div>
+
+
+
+  
+
+  <footer class="x-colophon top">
+    <div class="x-container max width">
+
+      <div class="x-column x-md x-1-3"><div id="text-2" class="widget widget_text">			<div class="textwidget"><p><img src="https://sammoussa.com/wp-content/uploads/2016/05/sam-moussa-remax.png" alt="REMAX"><br>
+<span class="footer-text-style" style="font-size: 0.85em;"><em>Re/Max Absolute Sam Moussa Realty. Inc. Brokerage.</em></span></p>
+<p class="footer-text-style">Trademark owned or controlled by The Canadian Real Estate Association.
+<br>
+Used under license.</p>
+<p class="footer-text-style">Information Deemed Reliable But Not Guaranteed</p></div>
+		</div></div><div class="x-column x-md x-1-3"><div id="text-3" class="widget widget_text"><h4 class="h-widget">Contact</h4>			<div class="textwidget"><p id="contact_us" class="footer-text-style">Re/Max Absolute <br>Sam Moussa Realty. Inc. Brokerage.<br>
+102-31 Northside Rd<br>
+Nepean, On K2H 8S1<br>
+<i  class="x-icon x-icon-phone" data-x-icon-s="&#xf095;" aria-hidden="true"></i> Office: <a href="tel:+1-613-721-5551"><strong>613-721-5551</strong></a><br>
+<i  class="x-icon x-icon-phone" data-x-icon-s="&#xf095;" aria-hidden="true"></i> Direct: <a onclick="goog_report_conversion ('tel:+1-613-715-1482')" href="tel:+1613-715-1482"><strong>613-715-1482</strong></a><br>
+<i  class="x-icon x-icon-envelope" data-x-icon-s="&#xf0e0;" aria-hidden="true"></i> Email: <a onclick="goog_report_conversion ('mailto:sam@sammoussa.com')" href="mailto:sam@sammoussa.com" target="_blank" rel="noopener"><strong>sam@sammoussa.com</strong></a></p>
+</div>
+		</div></div><div class="x-column x-md x-1-3 last"><div id="text-4" class="widget widget_text"><h4 class="h-widget">Quicklinks</h4>			<div class="textwidget"><p class="footer-text-style"><strong>></strong> &nbsp;<a href="/sam-moussa-show/">The Sam Moussa Show</a>
+<br>
+<strong>></strong> &nbsp;<a href="/about-sam-moussa/">About Sam</a>
+<br>
+<strong>></strong> &nbsp;<a href="/my-listings/">My Listings</a>
+<br>
+<strong>></strong> &nbsp;<a href="/commercial-real-estate-listings/">Commercial Properties</a>
+<br>
+<strong>></strong> &nbsp;<a href="/recently-sold-properties/">The Proof of Sam's Work</a>
+<br>
+<strong>></strong> &nbsp;<a href="/sam-moussa-blog-news/">News &amp; Events</a><br>
+<strong>></strong> &nbsp;<a href="https://sammoussa.com/wp-content/uploads/2016/09/privacypolicy.htm" target="_blank" rel="noopener">Privacy Policy</a></p></div>
+		</div></div>
+    </div>
+  </footer>
+
+
+  
+    <footer class="x-colophon bottom" role="contentinfo">
+      <div class="x-container max width">
+
+                  <div class="x-social-global"><a href="https://www.facebook.com/sam.moussa.792" class="facebook" title="Facebook" target="blank" rel=""><i class="x-icon-facebook-square" data-x-icon-b="&#xf082;" aria-hidden="true"></i></a><a href="https://twitter.com/SamMoussa3" class="twitter" title="Twitter" target="blank" rel=""><i class="x-icon-twitter-square" data-x-icon-b="&#xf081;" aria-hidden="true"></i></a><a href="https://www.linkedin.com/in/sam-moussa-8490a753" class="linkedin" title="LinkedIn" target="blank" rel=""><i class="x-icon-linkedin-square" data-x-icon-b="&#xf08c;" aria-hidden="true"></i></a><a href="https://www.youtube.com/channel/UCEzmo-lnhPnfFE2aBQ7GCmA" class="youtube" title="YouTube" target="blank" rel=""><i class="x-icon-youtube-square" data-x-icon-b="&#xf431;" aria-hidden="true"></i></a></div>        
+        
+                  <div class="x-colophon-content">
+            <script>document.write(new Date().getFullYear())</script> Re/Max Absolute Sam Moussa Realty. Inc. Brokerage. All rights reserved.          </div>
+        
+      </div>
+    </footer>
+
+  
+
+    
+    </div> <!-- END .x-site -->
+
+    
+      <a class="x-scroll-top right fade" title="Back to Top">
+                
+        <i class="x-icon-angle-up" data-x-icon-s="&#xf106;"></i>
+      </a>
+
+      <script>
+
+      jQuery(document).ready(function($) {
+
+        var $window            = $(window);
+        var body                 = $('body');
+        var bodyOffsetBottom     = $window.scrollBottom();             // 1
+        var bodyHeightAdjustment = body.height() - bodyOffsetBottom;     // 2
+        var bodyHeightAdjusted   = body.height() - bodyHeightAdjustment; // 3
+        var $scrollTopAnchor      = $('.x-scroll-top');
+
+        function sizingUpdate(){
+          var bodyOffsetTop = $window.scrollTop();
+          if ( bodyOffsetTop > ( bodyHeightAdjusted * 0.75 ) ) {
+            $scrollTopAnchor.addClass('in');
+          } else {
+            $scrollTopAnchor.removeClass('in');
+          }
+        }
+
+        $window.on('scroll', sizingUpdate).resize(sizingUpdate);
+        sizingUpdate();
+
+        $scrollTopAnchor.on( 'click', function(){
+          $('html, body').animate({ scrollTop: 0 }, 850, 'xEaseInOutExpo');
+          return false;
+        });
+
+      });
+
+      </script>
+
+    
+  </div> <!-- END .x-root -->
+
+<script type="text/javascript">
+document.addEventListener( 'wpcf7mailsent', function( event ) {
+    location.replace('https://sammoussa.com/confirmation/');
+}, false );
+</script>
+  	<script type="application/json" id="realtypress-jrange-defaults-json">{"jrange_enabled":"1","jrange_price_min":"0","jrange_price_max":"1000000","jrange_price_step":"25000","jrange_beds_min":"0","jrange_beds_max":"10","jrange_baths_min":"0","jrange_baths_max":"10"}</script>
+ 	<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/cornerstone/assets/dist/js/site/cs.6e37efe.js' id='cornerstone-site-body-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/sammoussa.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.12.1' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2' id='jquery-touch-punch-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b' id='jquery-masonry-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LeJAC8aAAAAAOZ7xjljCgnxCrSkfhlLqSyO57Xu&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LeJAC8aAAAAAOZ7xjljCgnxCrSkfhlLqSyO57Xu","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.3.2' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/themes/x/framework/dist/js/site/x.js?ver=8.0.11' id='x-site-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-includes/js/comment-reply.min.js?ver=5.6.5' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/templates/default/js/shortcode-listing-carousel.js?ver=1.0' id='realtypress-sc-listing-carousel-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/bootstrap-3.3.4/js/bootstrap.min.js?ver=1.8.7' id='realtypress-bootstrap-min-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/jrange/jquery.range-min.js?ver=1.8.7' id='realtypress-range-min-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/bxslider/js/jquery.bxslider.min.js?ver=1.8.7' id='realtypress-bxslider-min-js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDFVseVk8cT0cRWQVtUZRR5h5vhdMm-0I8&#038;libraries=geometry%2Cplaces&#038;ver=1.8.7' id='realtypress-google-maps-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/leaflet-0.7.3/js/leaflet.js?ver=1.8.7' id='realtypress-leaflet-min-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/leaflet-plugins/Google.min.js?ver=1.8.7' id='realtypress-leaflet-google-min-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/leaflet-plugins/Bing.min.js?ver=1.8.7' id='realtypress-leaflet-bing-min-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/leaflet-plugins/fullscreen/js/Leaflet.fullscreen.min.js?ver=1.8.7' id='realtypress-leaflet-fullscreen-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/leaflet-markercluster/js/leaflet.markercluster.js?ver=1.8.7' id='realtypress-leaflet-markercluster-min-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/leaflet-plugins/history/leaflet-history.js?ver=1.8.7' id='realtypress-leaflet-history-min-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/leaflet-plugins/hash/leaflet-hash.min.js?ver=1.8.7' id='realtypress-leaflet-hash-min-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/third-party/local-scroll/js/jquery.scrollTo.min.js?ver=1.8.7' id='realtypress-scrollto-min-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-content/plugins/realtypress-premium/public/templates/default/js/common.js?ver=1.8.7' id='realtypress-common-js'></script>
+<script type='text/javascript' src='https://sammoussa.com/wp-includes/js/wp-embed.min.js?ver=5.6.5' id='wp-embed-js'></script>
+
+</body>
+</html>

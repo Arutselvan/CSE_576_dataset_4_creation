@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="67px" viewBox="0 0 67 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>futuro_icons_375</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-621.000000, -3369.000000)">
+            <g id="futuro_icons_375" transform="translate(622.000000, 3371.000000)">
+                <g id="Group" transform="translate(1.013158, 0.000000)">
+                    <path d="M50.6578947,40.3149606 C57.3720921,40.3149606 62.8157895,34.8996535 62.8157895,28.2204724 C62.8157895,22.2263937 58.7631579,17.1338583 52.6842105,17.1338583 C52.6842105,12.0944882 49.6447368,8.06299213 43.5657895,8.06299213 L42.5526316,8.06299213 C39.7892434,3.10047244 34.4759901,0 28.3684211,0 C19.4161579,0 12.1578947,7.22040945 12.1578947,16.1259843 C5.44369737,16.1259843 0,21.5412913 0,28.2204724 C0,34.8996535 5.44369737,40.3149606 12.1578947,40.3149606 L50.6578947,40.3149606 L50.6578947,40.3149606 Z" id="Shape" fill="#FFFFFF"></path>
+                    <path d="M39.5131579,40.3149606 L50.6578947,40.3149606 C57.3720921,40.3149606 62.8157895,34.8996535 62.8157895,28.2204724 C62.8157895,22.2263937 58.7631579,17.1338583 52.6842105,17.1338583 C52.6842105,12.0944882 49.6447368,8.06299213 43.5657895,8.06299213 L42.5526316,8.06299213 C39.7892434,3.10047244 34.4759901,0 28.3684211,0 C19.4161579,0 12.1578947,7.22040945 12.1578947,16.1259843 C5.44369737,16.1259843 0,21.5412913 0,28.2204724 C0,34.8996535 5.44369737,40.3149606 12.1578947,40.3149606 L23.3026316,40.3149606" id="Shape" stroke="#000000" stroke-width="2.4"></path>
+                    <path d="M18.2368421,17.1338583 C18.2368421,11.0107717 23.3026316,6.04724409 28.3684211,6.04724409" id="Shape" stroke="#000000" stroke-width="2.4"></path>
+                </g>
+                <path d="M35.4605263,31.2440945 L35.4605263,54.4251969 C35.4605263,56.6515906 37.2750921,58.4566929 39.5131579,58.4566929 L59.7763158,58.4566929" id="Shape" stroke="#000000" stroke-width="2.4"></path>
+                <ellipse id="Oval" fill="#44C7F4" cx="59.7763158" cy="58.4566929" rx="5.06578947" ry="5.03937008"></ellipse>
+                <ellipse id="Oval" fill="#44C7F4" cx="45.5921053" cy="58.4566929" rx="5.06578947" ry="5.03937008"></ellipse>
+                <ellipse id="Oval" fill="#44C7F4" cx="19.25" cy="48.3779528" rx="5.06578947" ry="5.03937008"></ellipse>
+                <path id="Shape" stroke="#4D5152" stroke-width="2.4"></path>
+                <path id="Shape" stroke="#4D5152" stroke-width="2.4"></path>
+                <path id="Shape" stroke="#4D5152" stroke-width="2.4"></path>
+                <path id="Shape" stroke="#4D5152" stroke-width="2.4"></path>
+                <path id="Shape" stroke="#4D5152" stroke-width="2.4"></path>
+                <g id="futuro_icons_148" transform="translate(0.000000, 28.386241)">
+                    <g id="Group">
+                        <rect id="Rectangle-path" fill="#FFFFFF" x="0.562865497" y="1.40293838" width="29.2690058" height="8.97332995"></rect>
+                        <polyline id="Shape" fill="#EB5424" points="27.5804094 10.3762683 27.5804094 12.6196008 2.81432749 12.6196008 2.81432749 10.3762683"></polyline>
+                        <rect id="Rectangle-path" stroke="#000000" stroke-width="1.33333333" x="0.562865497" y="1.40293838" width="29.2547383" height="8.97332995"></rect>
+                        <path d="M0.842105263,1.08744302 L29.5326316,1.08744302" id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square"></path>
+                        <path id="Shape" stroke="#4D5152" stroke-width="1.33333333"></path>
+                        <path id="Shape" stroke="#4D5152" stroke-width="1.33333333"></path>
+                        <ellipse id="Oval" fill="#44C7F4" cx="25.3289474" cy="5.88960336" rx="1.68859649" ry="1.68249936"></ellipse>
+                        <rect id="Rectangle-path" fill="#FFFFFF" x="0.562865497" y="12.6196008" width="29.2690058" height="8.97332995"></rect>
+                        <polyline id="Shape" fill="#EB5424" points="27.5804094 21.5929308 27.5804094 23.8362633 2.81432749 23.8362633 2.81432749 21.5929308"></polyline>
+                        <rect id="Rectangle-path" stroke="#000000" stroke-width="1.33333333" x="0.562865497" y="12.6196008" width="29.2690058" height="8.97332995"></rect>
+                        <path id="Shape" stroke="#000000" stroke-width="1.33333333"></path>
+                        <path id="Shape" stroke="#000000" stroke-width="1.33333333"></path>
+                        <ellipse id="Oval" fill="#44C7F4" cx="25.3289474" cy="17.1062658" rx="1.68859649" ry="1.68249936"></ellipse>
+                        <rect id="Rectangle-path" fill="#FFFFFF" x="0.562865497" y="23.8362633" width="29.2690058" height="8.97332995"></rect>
+                        <polyline id="Shape" fill="#EB5424" points="27.5804094 32.8095932 27.5804094 35.0529257 2.81432749 35.0529257 2.81432749 32.8095932"></polyline>
+                        <rect id="Rectangle-path" stroke="#000000" stroke-width="1.33333333" x="0.562865497" y="23.8362633" width="29.2690058" height="8.97332995"></rect>
+                        <polyline id="Shape" stroke="#000000" stroke-width="1.33333333" points="27.5804094 32.8095932 27.5804094 35.0529257 2.81432749 35.0529257 2.81432749 32.8095932"></polyline>
+                        <ellipse id="Oval" fill="#44C7F4" cx="25.3289474" cy="28.3229282" rx="1.68859649" ry="1.68249936"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

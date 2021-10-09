@@ -1,0 +1,14 @@
+certifi==2021.5.30
+charset-normalizer==2.0.6
+Cython==0.29.24
+idna==3.2
+langdetect==1.0.9
+lxml==4.6.3
+progressbar2==3.53.3
+python-utils==2.5.6
+requests==2.26.0
+six==1.16.0
+urllib3==1.26.7
+warc3-wet==0.2.3
+warcio==1.7.4
+wget==3.2
